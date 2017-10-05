@@ -1,4 +1,4 @@
-FROM circleci/golang:1.7.6
+FROM circleci/golang:1.8.3
 MAINTAINER ops@spaceback.me
 
 # Install awscli
