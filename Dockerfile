@@ -1,5 +1,5 @@
-FROM circleci/golang:1.9
-MAINTAINER ops@spaceback.me
+FROM circleci/golang:1.11.2
+# MAINTAINER ops@spaceback.me
 
 # Install awscli
 # http://docs.aws.amazon.com/cli/latest/userguide/awscli-install-bundle.html
